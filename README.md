@@ -11,6 +11,9 @@ UancaBot is a ROS 2 mobile robot platform for work in real environments. It is b
 - **Can be driven by hand** with a joystick over Wi-Fi when someone needs to take over.
 - **Stays safe**: an emergency stop, speed limits and a stop command that always wins.
 - **Runs onboard**: everything runs on the robot's own computer, packaged so it starts the same way every time.
+- **Has its own control app**: one screen to start the robot, choose joystick, voice or routes, watch the map live, and end with a session report.
+
+![UancaBot Control, the robot's control app, in simulation mode](img/control-app.png)
 
 ## My work
 
